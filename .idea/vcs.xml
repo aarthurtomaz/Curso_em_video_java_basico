@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projeto01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projeto02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projeto03" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projeto04" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projeto05" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projeto05/src/Akinator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projeto05/src/AtividadeAds" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projeto05/src/Calculadora" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projeto05/src/teste_jogo_azar" vcs="Git" />
+  </component>
+</project>
